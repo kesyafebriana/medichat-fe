@@ -1,0 +1,1 @@
+export const ErrZeroResults = "ZERO_RESULTS"

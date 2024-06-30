@@ -1,0 +1,3 @@
+type HeaderPropsType = {
+    role: string;
+};
